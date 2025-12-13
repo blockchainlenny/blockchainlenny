@@ -10,7 +10,7 @@
 - [Incentigrate](https://github.com/blockchainlenny/Incentigrate) — Solana social impact learn-&-earn dApp MVP  
 
 📫 **Get in touch**  
-[Mail](mailto:incentigrate@gmail.com) • [LinkedIn](https://www.linkedin.com/in/philipp-lennartz/) • [X](https://x.com/blockchainlenny)
+[Mail](mailto:incentigrate@gmail.com) • [X](https://x.com/blockchainlenny)
 
 
 
