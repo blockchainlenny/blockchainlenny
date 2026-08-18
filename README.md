@@ -2,15 +2,12 @@
 # 👋 Hi, I’m Lenny
 
 **Founder & Solana Developer @ Incentigrate**  
-* **Proven Solana Experience:** Led a community token project on Solana to a $4.7M peak market cap in early 2024.
+* **Proven Solana Experience:** Led a community token project on Solana in early 2024.
 * **Community & Growth Expert:** Experienced Community Builder (Former Ecosystem Manager, MetaMuffin) with a strong background in e-commerce and crypto investments.
 
 
-📌 **Pinned Repo**
-- [Incentigrate](https://github.com/blockchainlenny/Incentigrate) — Solana social impact learn-&-earn dApp MVP  
-
 📫 **Get in touch**  
-[Mail](mailto:incentigrate@gmail.com) • [X](https://x.com/blockchainlenny)
+[X](https://x.com/blockchainlenny)
 
 
 
