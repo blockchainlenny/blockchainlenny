@@ -6,6 +6,7 @@
 **Now**
 * 🖥️ Running a dedicated FLOP Network node: Hetzner bare metal in Falkenstein (DE), keyless Devnet RPC replica with published sync and restart receipts. Testnet validator candidate: [flop-labs/network#906](https://github.com/flop-labs/network/issues/906)
 * 🤖 Building with AI coding agents: I own product, architecture and operations; the agents write the code.
+* FLOP Technocore identity: `did:key:z6Mkn5hdfvW4K48B4J2rB61XBr59hh8Y1gkLrZU74Rc1V77S`
 
 **Background**
 * **Proven Solana Experience:** Led a community token project on Solana in early 2024.
